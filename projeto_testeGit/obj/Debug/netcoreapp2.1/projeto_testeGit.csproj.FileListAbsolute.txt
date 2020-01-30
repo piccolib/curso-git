@@ -1,0 +1,11 @@
+C:\Users\Bruno\Desktop\Projetos\projeto_testeGit\projeto_testeGit\bin\Debug\netcoreapp2.1\projeto_testeGit.deps.json
+C:\Users\Bruno\Desktop\Projetos\projeto_testeGit\projeto_testeGit\bin\Debug\netcoreapp2.1\projeto_testeGit.runtimeconfig.json
+C:\Users\Bruno\Desktop\Projetos\projeto_testeGit\projeto_testeGit\bin\Debug\netcoreapp2.1\projeto_testeGit.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\Projetos\projeto_testeGit\projeto_testeGit\bin\Debug\netcoreapp2.1\projeto_testeGit.dll
+C:\Users\Bruno\Desktop\Projetos\projeto_testeGit\projeto_testeGit\bin\Debug\netcoreapp2.1\projeto_testeGit.pdb
+C:\Users\Bruno\Desktop\Projetos\projeto_testeGit\projeto_testeGit\obj\Debug\netcoreapp2.1\projeto_testeGit.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\Projetos\projeto_testeGit\projeto_testeGit\obj\Debug\netcoreapp2.1\projeto_testeGit.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Projetos\projeto_testeGit\projeto_testeGit\obj\Debug\netcoreapp2.1\projeto_testeGit.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Projetos\projeto_testeGit\projeto_testeGit\obj\Debug\netcoreapp2.1\projeto_testeGit.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Projetos\projeto_testeGit\projeto_testeGit\obj\Debug\netcoreapp2.1\projeto_testeGit.dll
+C:\Users\Bruno\Desktop\Projetos\projeto_testeGit\projeto_testeGit\obj\Debug\netcoreapp2.1\projeto_testeGit.pdb
